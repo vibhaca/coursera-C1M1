@@ -7,4 +7,4 @@ The program will perform the following analysis.
 	- Sort array in descending order. 
 	- Print the Original and Sorted arrays.
 	- Calculate the Maximum, Minimum, Mean and Median Values in the array.
-Adding items to the second commit.  
+ Submitting assignment 1 for week1
